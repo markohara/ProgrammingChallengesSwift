@@ -7,11 +7,7 @@ func canConstruct(_ ransomNote: String, _ magazine: String) -> Bool {
     var availableCharacters = [Character: Int]()
     
     for char in Array(magazine) {
-        if let amount = availableCharacters[char] {
-            availableCharacters[char] = amount + 1
-        } else {
-            availableCharacters[char] = 1
-        }
+        availableCharacters[char] = (availableCharacters[char] ?? 0) + 1
     }
     
     for char in Array(ransomNote) {
