@@ -11,3 +11,4 @@ Collection of my solutions to programming challenges in Swift
 * First Unique Character in a String [Question](https://leetcode.com/problems/first-unique-character-in-a-string/) : [Solution](/FirstUniqueCharacter.playground/Contents.swift)
 * Jewels and Stones [Question](https://leetcode.com/problems/jewels-and-stones/) : [Solution](/JewelsAndStones.playground/Contents.swift)
 * Number Complement [Question](https://leetcode.com/problems/number-complement/) : [Solution](/NumberComplement.playground/Contents.swift)
+* Majority Element [Question](https://leetcode.com/problems/majority-element/) : [Solution](/MajorityElement.playground/Contents.swift)
