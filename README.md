@@ -9,3 +9,4 @@ Collection of my solutions to programming challenges in Swift
 * First Bad Version [Question](https://leetcode.com/problems/first-bad-version/) : [Solution](/FirstBadVersion.playground/Contents.swift)
 * Ransom Note [Question](https://leetcode.com/problems/ransom-note/) : [Solution](/RansomNote.playground/Contents.swift)
 * First Unique Character in a String [Question](https://leetcode.com/problems/first-unique-character-in-a-string/) : [Solution](/FirstUniqueCharacter.playground/Contents.swift)
+* Jewels and Stones [Question](https://leetcode.com/problems/jewels-and-stones/) : [Solution](/JewelsAndStones.playground/Contents.swift)
