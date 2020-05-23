@@ -5,3 +5,4 @@ Collection of my solutions to programming challenges in Swift
 * Flood Fill [Question](https://leetcode.com/problems/flood-fill/) : [Solution](/FloodFill.playground/Contents.swift)
 * Reverse String [Question](https://leetcode.com/problems/reverse-string/) : [Solution](/ReverseString.playground/Contents.swift)
 * Island Perimeter [Question](https://leetcode.com/problems/island-perimeter/) : [Solution](/IslandPerimeter.playground/Contents.swift)
+* Single Number [Question](https://leetcode.com/problems/single-number/) : [Solution](/SingleNumber.playground/Contents.swift)
