@@ -7,3 +7,4 @@ Collection of my solutions to programming challenges in Swift
 * Island Perimeter [Question](https://leetcode.com/problems/island-perimeter/) : [Solution](/IslandPerimeter.playground/Contents.swift)
 * Single Number [Question](https://leetcode.com/problems/single-number/) : [Solution](/SingleNumber.playground/Contents.swift)
 * First Bad Version [Question](https://leetcode.com/problems/first-bad-version/) : [Solution](/FirstBadVersion.playground/Contents.swift)
+* Ransom Note [Question](https://leetcode.com/problems/ransom-note/) : [Solution](/RansomNote.playground/Contents.swift)
