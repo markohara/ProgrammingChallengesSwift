@@ -13,3 +13,4 @@ Collection of my solutions to programming challenges in Swift
 * Number Complement [Question](https://leetcode.com/problems/number-complement/) : [Solution](/NumberComplement.playground/Contents.swift)
 * Majority Element [Question](https://leetcode.com/problems/majority-element/) : [Solution](/MajorityElement.playground/Contents.swift)
 * FizzBuzz [Question](https://leetcode.com/problems/fizz-buzz/) : [Solution](/FizzBuzz.playground/Contents.swift)
+* Remove Duplicates in Sorted Array [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) : [Solution](/RemoveDuplicates.playground/Contents.swift)
