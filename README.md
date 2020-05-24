@@ -12,3 +12,4 @@ Collection of my solutions to programming challenges in Swift
 * Jewels and Stones [Question](https://leetcode.com/problems/jewels-and-stones/) : [Solution](/JewelsAndStones.playground/Contents.swift)
 * Number Complement [Question](https://leetcode.com/problems/number-complement/) : [Solution](/NumberComplement.playground/Contents.swift)
 * Majority Element [Question](https://leetcode.com/problems/majority-element/) : [Solution](/MajorityElement.playground/Contents.swift)
+* FizzBuzz [Question](https://leetcode.com/problems/fizz-buzz/) : [Solution](/FizzBuzz.playground/Contents.swift)
