@@ -16,3 +16,4 @@ Collection of my solutions to programming challenges in Swift
 * Remove Duplicates in Sorted Array [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) : [Solution](/RemoveDuplicates.playground/Contents.swift)
 * Single Element in a Sorted Array [Question](https://leetcode.com/problems/single-element-in-a-sorted-array/) : [Solution](/SingleElement.playground/Contents.swift)
 * How Many Numbers Are Smaller Than the Current Number [Question](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) : [Solution](/SmallerThanCurrent.playground/Contents.swift)
+*  Replace Elements with Greatest Element on Right Side [Question](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) : [Solution](/ReplaceWithRightGreatest.playground/Contents.swift)
