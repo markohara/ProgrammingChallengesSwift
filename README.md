@@ -20,3 +20,4 @@ Collection of my solutions to programming challenges in Swift
 * Transpose Matrix [Question](https://leetcode.com/problems/transpose-matrix/) : [Solution](/TransposeMatrix.playground/Contents.swift)
 * To Lowercase [Question](https://leetcode.com/problems/to-lower-case/) : [Solution](/ToLowercase.playground/Contents.swift)
 * Remove Vowels <strike>[Question]()</strike> : [Solution](/RemoveVowels.playground/Contents.swift)
+* Defanging an IP Address [Question](https://leetcode.com/problems/defanging-an-ip-address/) : [Solution](/DefangIP.playground/Contents.swift)
