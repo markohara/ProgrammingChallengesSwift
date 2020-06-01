@@ -22,3 +22,4 @@ Collection of my solutions to programming challenges in Swift
 * Remove Vowels <strike>[Question]()</strike> : [Solution](/RemoveVowels.playground/Contents.swift)
 * Defanging an IP Address [Question](https://leetcode.com/problems/defanging-an-ip-address/) : [Solution](/DefangIP.playground/Contents.swift)
 * Create Target Array in the Given Order [Question](https://leetcode.com/problems/create-target-array-in-the-given-order/) : [Solution](/CreateTargetArray.playground/Contents.swift)
+* Flipping an Image [Question](https://leetcode.com/problems/flipping-an-image/) : [Solution](/FlipAnImage.playground/Contents.swift)
