@@ -24,3 +24,4 @@ Collection of my solutions to programming challenges in Swift
 * Create Target Array in the Given Order [Question](https://leetcode.com/problems/create-target-array-in-the-given-order/) : [Solution](/CreateTargetArray.playground/Contents.swift)
 * Flipping an Image [Question](https://leetcode.com/problems/flipping-an-image/) : [Solution](/FlipAnImage.playground/Contents.swift)
 * Implement strStr() [Question](https://leetcode.com/problems/implement-strstr/) : [Solution](/strStr.playground/Contents.swift)
+* Contains Duplicates [Question](https://leetcode.com/problems/contains-duplicate/) : [Solution](/ContainsDuplicates.playground/Contents.swift)
