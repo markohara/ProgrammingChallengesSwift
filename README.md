@@ -27,3 +27,4 @@ Collection of my solutions to programming challenges in Swift
 * Contains Duplicates [Question](https://leetcode.com/problems/contains-duplicate/) : [Solution](/ContainsDuplicates.playground/Contents.swift)
 * Plus One [Question](https://leetcode.com/problems/plus-one/) : [Solution](/PlusOne.playground/Contents.swift)
 * Move Zeros [Question](https://leetcode.com/problems/move-zeros/) : [Solution](/MoveZeros.playground/Contents.swift)
+* CountPrimes [Question](https://leetcode.com/problems/count-primes/) : [Solution](/CountPrimes.playground/Contents.swift)
