@@ -5,7 +5,7 @@ import XCTest
 //https://leetcode.com/problems/contains-duplicate/
 func containsDuplicate(_ nums: [Int]) -> Bool {
     var count = [Int:Int]()
-    
+
     for num in nums {
         if let _ = count[num] {
             return true
@@ -13,8 +13,11 @@ func containsDuplicate(_ nums: [Int]) -> Bool {
             count[num] = 1
         }
     }
-    
+
     return false
+    
+    //alternative
+    //Set(nums).count != nums.count
 }
 
 class Tests: XCTestCase {
