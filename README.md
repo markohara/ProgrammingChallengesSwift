@@ -25,3 +25,4 @@ Collection of my solutions to programming challenges in Swift
 * Flipping an Image [Question](https://leetcode.com/problems/flipping-an-image/) : [Solution](/FlipAnImage.playground/Contents.swift)
 * Implement strStr() [Question](https://leetcode.com/problems/implement-strstr/) : [Solution](/strStr.playground/Contents.swift)
 * Contains Duplicates [Question](https://leetcode.com/problems/contains-duplicate/) : [Solution](/ContainsDuplicates.playground/Contents.swift)
+* Plus One [Question](https://leetcode.com/problems/plus-one/) : [Solution](/PlusOne.playground/Contents.swift)
