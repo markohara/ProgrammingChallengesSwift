@@ -26,3 +26,4 @@ Collection of my solutions to programming challenges in Swift
 * Implement strStr() [Question](https://leetcode.com/problems/implement-strstr/) : [Solution](/strStr.playground/Contents.swift)
 * Contains Duplicates [Question](https://leetcode.com/problems/contains-duplicate/) : [Solution](/ContainsDuplicates.playground/Contents.swift)
 * Plus One [Question](https://leetcode.com/problems/plus-one/) : [Solution](/PlusOne.playground/Contents.swift)
+* Move Zeros [Question](https://leetcode.com/problems/move-zeros/) : [Solution](/MoveZeros.playground/Contents.swift)
