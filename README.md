@@ -30,3 +30,4 @@ Collection of my solutions to programming challenges in Swift
 * CountPrimes [Question](https://leetcode.com/problems/count-primes/) : [Solution](/CountPrimes.playground/Contents.swift)
 * Max Consecutive Ones [Question](https://leetcode.com/problems/max-consecutive-ones/) : [Solution](/MaxConsecutiveOnes.playground/Contents.swift)
 * Find Numbers with Even Number of Digits [Question](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) : [Solution](/EvenNumberOfDigits.playground/Contents.swift)
+* Valid Mountain Array [Question](https://leetcode.com/problems/valid-mountain-array/) : [Solution](/ValidMountain.playground/Contents.swift)
