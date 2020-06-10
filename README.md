@@ -32,3 +32,4 @@ Collection of my solutions to programming challenges in Swift
 * Find Numbers with Even Number of Digits [Question](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) : [Solution](/EvenNumberOfDigits.playground/Contents.swift)
 * Valid Mountain Array [Question](https://leetcode.com/problems/valid-mountain-array/) : [Solution](/ValidMountain.playground/Contents.swift)
 * Shuffle The Array [Question](https://leetcode.com/problems/shuffle-the-array/) : [Solution](/ShuffleTheArray.playground/Contents.swift)
+* Kids With the Greatest Number of Candies [Question](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) : [Solution](/GreatestNumberOfCandles.playground/Contents.swift)
