@@ -33,3 +33,4 @@ Collection of my solutions to programming challenges in Swift
 * Valid Mountain Array [Question](https://leetcode.com/problems/valid-mountain-array/) : [Solution](/ValidMountain.playground/Contents.swift)
 * Shuffle The Array [Question](https://leetcode.com/problems/shuffle-the-array/) : [Solution](/ShuffleTheArray.playground/Contents.swift)
 * Kids With the Greatest Number of Candies [Question](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) : [Solution](/GreatestNumberOfCandles.playground/Contents.swift)
+* Number of Steps to Reduce a Number to Zero [Question](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) : [Solution](/ReduceToZero.playground/Contents.swift)
