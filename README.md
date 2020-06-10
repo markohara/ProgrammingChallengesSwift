@@ -34,3 +34,4 @@ Collection of my solutions to programming challenges in Swift
 * Shuffle The Array [Question](https://leetcode.com/problems/shuffle-the-array/) : [Solution](/ShuffleTheArray.playground/Contents.swift)
 * Kids With the Greatest Number of Candies [Question](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) : [Solution](/GreatestNumberOfCandles.playground/Contents.swift)
 * Number of Steps to Reduce a Number to Zero [Question](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) : [Solution](/ReduceToZero.playground/Contents.swift)
+* Decompress Run-Length Encoded List [Question](https://leetcode.com/problems/decompress-run-length-encoded-list/) : [Solution](/DecompressRLEList.playground/Contents.swift)
