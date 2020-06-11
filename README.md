@@ -37,3 +37,4 @@ Collection of my solutions to programming challenges in Swift
 * Decompress Run-Length Encoded List [Question](https://leetcode.com/problems/decompress-run-length-encoded-list/) : [Solution](/DecompressRLEList.playground/Contents.swift)
 * Subtract the Product and Sum of Digits of an Integer [Question](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) : [Solution](/SubtractProductFromSum.playground/Contents.swift)
 * Maximum Product of Two Elements in an array [Question](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/) : [Solution](/MaxProducts.playground/Contents.swift)
+* Number of Students Doing Homework as a Given Time [Question](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) : [Solution](/DoingHomeworkAtGivenTime.playground/Contents.swift)
