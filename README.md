@@ -36,3 +36,4 @@ Collection of my solutions to programming challenges in Swift
 * Number of Steps to Reduce a Number to Zero [Question](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) : [Solution](/ReduceToZero.playground/Contents.swift)
 * Decompress Run-Length Encoded List [Question](https://leetcode.com/problems/decompress-run-length-encoded-list/) : [Solution](/DecompressRLEList.playground/Contents.swift)
 * Subtract the Product and Sum of Digits of an Integer [Question](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) : [Solution](/SubtractProductFromSum.playground/Contents.swift)
+* Maximum Product of Two Elements in an array [Question](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/) : [Solution](/MaxProducts.playground/Contents.swift)
