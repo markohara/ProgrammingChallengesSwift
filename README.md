@@ -40,3 +40,4 @@ Collection of my solutions to programming challenges in Swift
 * Number of Students Doing Homework as a Given Time [Question](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) : [Solution](/DoingHomeworkAtGivenTime.playground/Contents.swift)
 * Cells with Odd Values in Matrix [Question](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) : [Solution](/OddValuesInMatrix.playground/Contents.swift)
 * Maximum 69 Number [Question](https://leetcode.com/problems/maximum-69-number/) : [Solution](/Max69.playground/Contents.swift)
+* Self Dividing Numbers [Question](https://leetcode.com/problems/self-dividing-numbers/) : [Solution](/SelfDividingNumbers.playground/Contents.swift)
